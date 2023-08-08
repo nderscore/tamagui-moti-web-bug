@@ -17,12 +17,14 @@
     "watch": "tamagui-build --watch"
   },
   "dependencies": {
+    "@tamagui/animations-moti": "latest",
     "@tamagui/animations-react-native": "latest",
     "@tamagui/font-inter": "latest",
     "@tamagui/react-native-media-driver": "latest",
     "@tamagui/shorthands": "latest",
     "@tamagui/themes": "latest",
     "@tamagui/toast": "latest",
+    "react-native-reanimated": "^3.4.2",
     "tamagui": "latest"
   },
   "devDependencies": {
